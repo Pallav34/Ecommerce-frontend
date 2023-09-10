@@ -21,7 +21,7 @@
     },
     {
       "id": 2,
-      "title": "iPhone X",
+      "title": "iPhone XR",
       "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
       "price": 899,
       "discountPercentage": 17.94,
@@ -169,7 +169,7 @@
       "price": 1099,
       "discountPercentage": 6.18,
       "rating": 4.43,
-      "stock": 89,
+      "stock": 90,
       "brand": "HP Pavilion",
       "category": "laptops",
       "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
@@ -1838,6 +1838,24 @@
         "https://i.dummyjson.com/data/products/100/3.jpg",
         "https://i.dummyjson.com/data/products/100/thumbnail.jpg"
       ]
+    },
+    {
+      "title": "React  tutorial",
+      "description": "fj",
+      "brand": "Apple",
+      "category": "smartphones",
+      "price": 7788,
+      "discountPercentage": 15,
+      "stock": 2,
+      "thumbnail": "Nice",
+      "images": [
+        "No",
+        "no",
+        "no",
+        "Nice"
+      ],
+      "rating": 0,
+      "id": 101
     }
   ],
   "brands": [
@@ -2338,15 +2356,52 @@
     {
       "email": "test@user.com",
       "password": "Nice2020",
+      "role": "user",
       "addresses": [
+        {
+          "name": "Swarupa Maiti",
+          "email": "swarupaher83232@gmail.com",
+          "phone": "07868074565",
+          "street": "789",
+          "city": "789",
+          "state": "789",
+          "pinCode": "789"
+        },
+        {
+          "name": "Swarupa Maiti",
+          "email": "maitiswarupa14@gmail.com",
+          "phone": "08001238710",
+          "street": "Babupur, Deulpota, Sutahata",
+          "city": "Haldia",
+          "state": "West Bengal",
+          "pinCode": "721603"
+        },
+        {
+          "name": "Demo order",
+          "email": "hello@gmial.com",
+          "phone": "789541263",
+          "street": "45847pal",
+          "city": "Kolkata",
+          "state": "789898",
+          "pinCode": "adfafa"
+        },
         {
           "name": "Pallav Bag",
           "email": "pallavbag1@gmail.com",
-          "phone": "08945809429",
+          "phone": "+917584071580",
+          "street": "Kasthakhali, Iswardahajalpai, Purba medinipur",
+          "city": "Kolkata",
+          "state": "West Bengal",
+          "pinCode": "721654"
+        },
+        {
+          "name": "PALLAV BAG fgrtoposerkjiofie",
+          "email": "pallavbag05@gmail.com",
+          "phone": "07584071580",
           "street": "NH-41, Barsundra",
           "city": "Haldia",
-          "state": "WEST BENGAL",
-          "pinCode": "721654"
+          "state": "State",
+          "pinCode": "721604"
         }
       ],
       "id": 1
@@ -2354,6 +2409,33 @@
     {
       "email": "nice@hello.com",
       "password": "Pallav2021",
+      "role": "user",
+      "addresses": [
+        {
+          "name": "Swarupa Maiti",
+          "email": "swarupamaiti2019@gmail.com",
+          "phone": "08001238710",
+          "street": "adra",
+          "city": "East Midnapore",
+          "state": "WEST BENGAL",
+          "pinCode": "75841"
+        },
+        {
+          "name": "fgvdsdfs",
+          "email": "gfsfg",
+          "phone": "sgds",
+          "street": "sgs",
+          "city": "sgs",
+          "state": "gss",
+          "pinCode": "sgs"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "email": "demo@admin.com",
+      "password": "RadheRadhe@123",
+      "role": "admin",
       "addresses": [
         {
           "name": "Swarupa Maiti",
@@ -2365,54 +2447,121 @@
           "pinCode": "75841"
         }
       ],
+      "id": 3
+    },
+    {
+      "email": "krishnendusahoo.edu@gmail.com",
+      "password": "@Kuku123",
+      "role": "user",
+      "addressess": [],
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "title": "Plastic Table",
+      "description": "V﻿ery good quality plastic table for multi purpose now in reasonable price",
+      "price": 50,
+      "discountPercentage": 4,
+      "rating": 4.01,
+      "stock": 136,
+      "brand": "Multi Purpose",
+      "category": "furniture",
+      "thumbnail": "https://i.dummyjson.com/data/products/34/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/34/1.jpg",
+        "https://i.dummyjson.com/data/products/34/2.jpg",
+        "https://i.dummyjson.com/data/products/34/3.jpg",
+        "https://i.dummyjson.com/data/products/34/4.jpg",
+        "https://i.dummyjson.com/data/products/34/thumbnail.jpg"
+      ],
+      "quantity": 5,
+      "user": 4,
       "id": 2
     }
   ],
-  "cart": [],
   "orders": [
     {
       "items": [
         {
-          "title": "iPhone X",
-          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-          "price": 899,
-          "discountPercentage": 17.94,
-          "rating": 4.44,
-          "stock": 34,
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
           "brand": "Apple",
           "category": "smartphones",
-          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
           "images": [
-            "https://i.dummyjson.com/data/products/2/1.jpg",
-            "https://i.dummyjson.com/data/products/2/2.jpg",
-            "https://i.dummyjson.com/data/products/2/3.jpg",
-            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+            "https://i.dummyjson.com/data/products/1/1.jpg",
+            "https://i.dummyjson.com/data/products/1/2.jpg",
+            "https://i.dummyjson.com/data/products/1/3.jpg",
+            "https://i.dummyjson.com/data/products/1/4.jpg",
+            "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
           ],
           "quantity": 1,
-          "user": 1,
+          "user": 3,
           "id": 1
+        },
+        {
+          "title": "MacBook Pro",
+          "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+          "price": 1749,
+          "discountPercentage": 11.02,
+          "rating": 4.57,
+          "stock": 83,
+          "brand": "Apple",
+          "category": "laptops",
+          "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+          "images": [
+            "https://i.dummyjson.com/data/products/6/1.png",
+            "https://i.dummyjson.com/data/products/6/2.jpg",
+            "https://i.dummyjson.com/data/products/6/3.png",
+            "https://i.dummyjson.com/data/products/6/4.jpg"
+          ],
+          "quantity": 1,
+          "user": 3,
+          "id": 3
         }
       ],
-      "totalAmount": 899,
-      "totalItems": 1,
+      "totalAmount": 2298,
+      "totalItems": 2,
       "user": {
-        "email": "test@user.com",
-        "password": "Nice2020",
+        "email": "demo@admin.com",
+        "password": "RadheRadhe@123",
         "addresses": [
           {
-            "name": "Pallav Bag",
-            "email": "pallavbag1@gmail.com",
-            "phone": "08945809429",
-            "street": "NH-41, Barsundra",
-            "city": "Haldia",
+            "name": "Swarupa Maiti",
+            "email": "swarupamaiti2019@gmail.com",
+            "phone": "08001238710",
+            "street": "adra",
+            "city": "East Midnapore",
             "state": "WEST BENGAL",
-            "pinCode": "721654"
+            "pinCode": "75841"
+          },
+          {
+            "name": "fgvdsdfs",
+            "email": "gfsfg",
+            "phone": "sgds",
+            "street": "sgs",
+            "city": "sgs",
+            "state": "gss",
+            "pinCode": "sgs"
           }
         ],
-        "id": 1
+        "id": 3
       },
       "paymentMethod": "cash",
-      "selectedAddress": null,
+      "selectedAddress": {
+        "name": "fgvdsdfs",
+        "email": "gfsfg",
+        "phone": "sgds",
+        "street": "sgs",
+        "city": "sgs",
+        "state": "gss",
+        "pinCode": "sgs"
+      },
       "status": "pending",
       "id": 1
     }
