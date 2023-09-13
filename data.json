@@ -2453,117 +2453,265 @@
       "email": "krishnendusahoo.edu@gmail.com",
       "password": "@Kuku123",
       "role": "user",
-      "addressess": [],
+      "addresses": [
+        {
+          "name": "Krishnendu Shahooooooo",
+          "email": "krishnendusahoo.edu@gmail.com",
+          "city": "East Midnapore",
+          "state": "WEST BENGAL",
+          "pinCode": "75841",
+          "phone": "ulala ulala",
+          "street": "adra"
+        }
+      ],
       "id": 4
     }
   ],
   "cart": [
     {
-      "title": "Plastic Table",
-      "description": "V﻿ery good quality plastic table for multi purpose now in reasonable price",
-      "price": 50,
-      "discountPercentage": 4,
-      "rating": 4.01,
-      "stock": 136,
-      "brand": "Multi Purpose",
-      "category": "furniture",
-      "thumbnail": "https://i.dummyjson.com/data/products/34/thumbnail.jpg",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/34/1.jpg",
-        "https://i.dummyjson.com/data/products/34/2.jpg",
-        "https://i.dummyjson.com/data/products/34/3.jpg",
-        "https://i.dummyjson.com/data/products/34/4.jpg",
-        "https://i.dummyjson.com/data/products/34/thumbnail.jpg"
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://i.dummyjson.com/data/products/1/4.jpg",
+        "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
       ],
-      "quantity": 5,
-      "user": 4,
+      "quantity": 1,
+      "user": 3,
       "id": 2
+    },
+    {
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://i.dummyjson.com/data/products/1/4.jpg",
+        "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+      ],
+      "productId": 1,
+      "quantity": 1,
+      "user": 1,
+      "id": 3
     }
   ],
   "orders": [
     {
       "items": [
         {
-          "title": "iPhone 9",
-          "description": "An apple mobile which is nothing like apple",
-          "price": 549,
-          "discountPercentage": 12.96,
-          "rating": 4.69,
-          "stock": 94,
-          "brand": "Apple",
-          "category": "smartphones",
-          "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+          "title": "Plastic Table",
+          "description": "V﻿ery good quality plastic table for multi purpose now in reasonable price",
+          "price": 50,
+          "discountPercentage": 4,
+          "rating": 4.01,
+          "stock": 136,
+          "brand": "Multi Purpose",
+          "category": "furniture",
+          "thumbnail": "https://i.dummyjson.com/data/products/34/thumbnail.jpg",
           "images": [
-            "https://i.dummyjson.com/data/products/1/1.jpg",
-            "https://i.dummyjson.com/data/products/1/2.jpg",
-            "https://i.dummyjson.com/data/products/1/3.jpg",
-            "https://i.dummyjson.com/data/products/1/4.jpg",
-            "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+            "https://i.dummyjson.com/data/products/34/1.jpg",
+            "https://i.dummyjson.com/data/products/34/2.jpg",
+            "https://i.dummyjson.com/data/products/34/3.jpg",
+            "https://i.dummyjson.com/data/products/34/4.jpg",
+            "https://i.dummyjson.com/data/products/34/thumbnail.jpg"
           ],
-          "quantity": 1,
-          "user": 3,
+          "quantity": 5,
+          "user": 4,
           "id": 1
-        },
-        {
-          "title": "MacBook Pro",
-          "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
-          "price": 1749,
-          "discountPercentage": 11.02,
-          "rating": 4.57,
-          "stock": 83,
-          "brand": "Apple",
-          "category": "laptops",
-          "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
-          "images": [
-            "https://i.dummyjson.com/data/products/6/1.png",
-            "https://i.dummyjson.com/data/products/6/2.jpg",
-            "https://i.dummyjson.com/data/products/6/3.png",
-            "https://i.dummyjson.com/data/products/6/4.jpg"
-          ],
-          "quantity": 1,
-          "user": 3,
-          "id": 3
         }
       ],
-      "totalAmount": 2298,
-      "totalItems": 2,
+      "totalAmount": 240,
+      "totalItems": 5,
       "user": {
-        "email": "demo@admin.com",
-        "password": "RadheRadhe@123",
+        "email": "krishnendusahoo.edu@gmail.com",
+        "password": "@Kuku123",
+        "role": "user",
         "addresses": [
           {
-            "name": "Swarupa Maiti",
-            "email": "swarupamaiti2019@gmail.com",
-            "phone": "08001238710",
-            "street": "adra",
+            "name": "Krishnendu Shahooooooo",
+            "email": "krishnendusahoo.edu@gmail.com",
             "city": "East Midnapore",
             "state": "WEST BENGAL",
-            "pinCode": "75841"
-          },
-          {
-            "name": "fgvdsdfs",
-            "email": "gfsfg",
-            "phone": "sgds",
-            "street": "sgs",
-            "city": "sgs",
-            "state": "gss",
-            "pinCode": "sgs"
+            "pinCode": "75841",
+            "phone": "ulala ulala",
+            "street": "adra"
           }
         ],
-        "id": 3
+        "id": 4
       },
       "paymentMethod": "cash",
       "selectedAddress": {
-        "name": "fgvdsdfs",
-        "email": "gfsfg",
-        "phone": "sgds",
-        "street": "sgs",
-        "city": "sgs",
-        "state": "gss",
-        "pinCode": "sgs"
+        "name": "Krishnendu Shahooooooo",
+        "email": "krishnendusahoo.edu@gmail.com",
+        "city": "East Midnapore",
+        "state": "WEST BENGAL",
+        "pinCode": "75841",
+        "phone": "ulala ulala",
+        "street": "adra"
       },
-      "status": "pending",
+      "status": "delivered",
       "id": 1
+    },
+    {
+      "items": [
+        {
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/3/1.jpg"
+          ],
+          "quantity": 1,
+          "user": 1,
+          "id": 3
+        }
+      ],
+      "totalAmount": 1056,
+      "totalItems": 1,
+      "user": {
+        "email": "test@user.com",
+        "password": "Nice2020",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Swarupa Maiti",
+            "email": "swarupaher83232@gmail.com",
+            "phone": "07868074565",
+            "street": "789",
+            "city": "789",
+            "state": "789",
+            "pinCode": "789"
+          },
+          {
+            "name": "Swarupa Maiti",
+            "email": "maitiswarupa14@gmail.com",
+            "phone": "08001238710",
+            "street": "Babupur, Deulpota, Sutahata",
+            "city": "Haldia",
+            "state": "West Bengal",
+            "pinCode": "721603"
+          },
+          {
+            "name": "Demo order",
+            "email": "hello@gmial.com",
+            "phone": "789541263",
+            "street": "45847pal",
+            "city": "Kolkata",
+            "state": "789898",
+            "pinCode": "adfafa"
+          },
+          {
+            "name": "Pallav Bag",
+            "email": "pallavbag1@gmail.com",
+            "phone": "+917584071580",
+            "street": "Kasthakhali, Iswardahajalpai, Purba medinipur",
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "pinCode": "721654"
+          },
+          {
+            "name": "PALLAV BAG fgrtoposerkjiofie",
+            "email": "pallavbag05@gmail.com",
+            "phone": "07584071580",
+            "street": "NH-41, Barsundra",
+            "city": "Haldia",
+            "state": "State",
+            "pinCode": "721604"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Swarupa Maiti",
+        "email": "swarupaher83232@gmail.com",
+        "phone": "07868074565",
+        "street": "789",
+        "city": "789",
+        "state": "789",
+        "pinCode": "789"
+      },
+      "status": "dispatched",
+      "id": 2
+    },
+    {
+      "items": [
+        {
+          "title": "Money Heist Printed Summer T Shirts",
+          "description": "Fabric Jercy, Size: M & L Wear Stylish Dual Stiched",
+          "price": 66,
+          "discountPercentage": 15.97,
+          "rating": 4.9,
+          "stock": 122,
+          "brand": "The Warehouse",
+          "category": "mens-shirts",
+          "thumbnail": "https://i.dummyjson.com/data/products/55/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/55/1.jpg",
+            "https://i.dummyjson.com/data/products/55/2.webp",
+            "https://i.dummyjson.com/data/products/55/3.jpg",
+            "https://i.dummyjson.com/data/products/55/4.jpg",
+            "https://i.dummyjson.com/data/products/55/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": 4,
+          "id": 3
+        }
+      ],
+      "totalAmount": 55,
+      "totalItems": 1,
+      "user": {
+        "email": "krishnendusahoo.edu@gmail.com",
+        "password": "@Kuku123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Krishnendu Shahooooooo",
+            "email": "krishnendusahoo.edu@gmail.com",
+            "city": "East Midnapore",
+            "state": "WEST BENGAL",
+            "pinCode": "75841",
+            "phone": "ulala ulala",
+            "street": "adra"
+          }
+        ],
+        "id": 4
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Krishnendu Shahooooooo",
+        "email": "krishnendusahoo.edu@gmail.com",
+        "city": "East Midnapore",
+        "state": "WEST BENGAL",
+        "pinCode": "75841",
+        "phone": "ulala ulala",
+        "street": "adra"
+      },
+      "status": "delivered",
+      "id": 3
     }
   ]
 }
